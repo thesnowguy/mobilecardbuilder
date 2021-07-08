@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_push_notif_app_install">
+    <sys_push_notif_app_install action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <last_registered_on>2021-07-05 12:49:35</last_registered_on>
+        <sys_class_name>sys_push_notif_app_install</sys_class_name>
+        <sys_created_by>ashish</sys_created_by>
+        <sys_created_on>2021-07-05 12:47:36</sys_created_on>
+        <sys_id>a885fb9f07c5f810bc67ff808c1ed0d2</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>FDD7C0C3FB594F90CB4295895E9B837010911064BEB8C7A213862C6506ACAEFF</sys_name>
+        <sys_package display_value="Shopping List" source="x_113026_shopping">9b43f79b07c5f810bc67ff808c1ed0f7</sys_package>
+        <sys_policy/>
+        <sys_push_application_id display_value="ServiceNow Mobile Application">05ed2fb177002300258da2e2c81061c2</sys_push_application_id>
+        <sys_push_platform_id display_value="Apple">20e71f30ff0002009738ffffffffff6b</sys_push_platform_id>
+        <sys_scope display_value="Shopping List">9b43f79b07c5f810bc67ff808c1ed0f7</sys_scope>
+        <sys_update_name>sys_push_notif_app_install_a885fb9f07c5f810bc67ff808c1ed0d2</sys_update_name>
+        <sys_updated_by>ashish</sys_updated_by>
+        <sys_updated_on>2021-07-05 12:49:35</sys_updated_on>
+        <sys_user_id display_value="Ashish Sharma">4ace643d07e32010bc67ff808c1ed0e1</sys_user_id>
+        <token>FDD7C0C3FB594F90CB4295895E9B837010911064BEB8C7A213862C6506ACAEFF</token>
+    </sys_push_notif_app_install>
+</record_update>

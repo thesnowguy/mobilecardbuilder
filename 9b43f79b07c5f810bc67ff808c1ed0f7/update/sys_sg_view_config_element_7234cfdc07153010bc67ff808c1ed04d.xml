@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <name>text_07_element</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>ashish</sys_created_by>
+        <sys_created_on>2021-07-08 11:46:13</sys_created_on>
+        <sys_id>7234cfdc07153010bc67ff808c1ed04d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>text_07_element</sys_name>
+        <sys_package display_value="Shopping List" source="x_113026_shopping">9b43f79b07c5f810bc67ff808c1ed0f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">9b43f79b07c5f810bc67ff808c1ed0f7</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_7234cfdc07153010bc67ff808c1ed04d</sys_update_name>
+        <sys_updated_by>ashish</sys_updated_by>
+        <sys_updated_on>2021-07-08 11:46:13</sys_updated_on>
+        <view_config display_value="Shopping Item List Screen View Config">bd05339f07c5f810bc67ff808c1ed024</view_config>
+        <view_template_slot display_value="text_07">e87845b041275010f877183fc9b8be13</view_template_slot>
+    </sys_sg_view_config_element>
+</record_update>

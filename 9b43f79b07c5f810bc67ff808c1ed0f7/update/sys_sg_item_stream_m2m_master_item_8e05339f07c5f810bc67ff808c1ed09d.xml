@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_master_item">
+    <sys_sg_item_stream_m2m_master_item action="INSERT_OR_UPDATE">
+        <item_stream display_value="Shopping Item Item Stream">0a05339f07c5f810bc67ff808c1ed09b</item_stream>
+        <master_item display_value="Shopping Item master_item">0205339f07c5f810bc67ff808c1ed09d</master_item>
+        <sys_class_name>sys_sg_item_stream_m2m_master_item</sys_class_name>
+        <sys_created_by>ashish</sys_created_by>
+        <sys_created_on>2021-07-05 12:45:31</sys_created_on>
+        <sys_id>8e05339f07c5f810bc67ff808c1ed09d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Shopping List" source="x_113026_shopping">9b43f79b07c5f810bc67ff808c1ed0f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">9b43f79b07c5f810bc67ff808c1ed0f7</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_master_item_8e05339f07c5f810bc67ff808c1ed09d</sys_update_name>
+        <sys_updated_by>ashish</sys_updated_by>
+        <sys_updated_on>2021-07-05 12:45:31</sys_updated_on>
+    </sys_sg_item_stream_m2m_master_item>
+</record_update>

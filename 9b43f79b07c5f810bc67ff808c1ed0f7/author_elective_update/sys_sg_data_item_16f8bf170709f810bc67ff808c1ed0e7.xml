@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="DELETE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>Create Delegate</name>
+        <query_condition/>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>ashish</sys_created_by>
+        <sys_created_on>2021-07-05 13:02:44</sys_created_on>
+        <sys_id>16f8bf170709f810bc67ff808c1ed0e7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create Delegate</sys_name>
+        <sys_package display_value="Shopping List" source="x_113026_shopping">9b43f79b07c5f810bc67ff808c1ed0f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">9b43f79b07c5f810bc67ff808c1ed0f7</sys_scope>
+        <sys_update_name>sys_sg_data_item_16f8bf170709f810bc67ff808c1ed0e7</sys_update_name>
+        <sys_updated_by>ashish</sys_updated_by>
+        <sys_updated_on>2021-07-05 13:02:44</sys_updated_on>
+        <table>sys_user_delegate</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="DELETE" query="documentkey=16f8bf170709f810bc67ff808c1ed0e7"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Shopping List">9b43f79b07c5f810bc67ff808c1ed0f7</application>
+        <file_path/>
+        <instance_id>8ef04475dbebe810601a11f848961976</instance_id>
+        <instance_name>dev111995</instance_name>
+        <name>sys_sg_data_item_16f8bf170709f810bc67ff808c1ed0e7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item"><sys_sg_data_item action="INSERT_OR_UPDATE"><condition_type>declarative</condition_type><description/><group_by/><instance_relative_url_qc/><name>Create Delegate</name><query_condition/><query_condition_script/><sys_class_name>sys_sg_data_item</sys_class_name><sys_created_by>ashish</sys_created_by><sys_created_on>2021-07-05 13:02:44</sys_created_on><sys_id>16f8bf170709f810bc67ff808c1ed0e7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Create Delegate</sys_name><sys_package display_value="Shopping List" source="x_113026_shopping">9b43f79b07c5f810bc67ff808c1ed0f7</sys_package><sys_policy/><sys_scope display_value="Shopping List">9b43f79b07c5f810bc67ff808c1ed0f7</sys_scope><sys_update_name>sys_sg_data_item_16f8bf170709f810bc67ff808c1ed0e7</sys_update_name><sys_updated_by>ashish</sys_updated_by><sys_updated_on>2021-07-05 13:02:44</sys_updated_on><table>sys_user_delegate</table></sys_sg_data_item><sys_translated_text action="delete_multiple" query="documentkey=16f8bf170709f810bc67ff808c1ed0e7"/></record_update>]]></payload>
+        <payload_hash>-2102197450</payload_hash>
+        <record_name>Create Delegate</record_name>
+        <reverted_from/>
+        <source>9343f79b07c5f810bc67ff808c1ed0fa</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>ashish</sys_created_by>
+        <sys_created_on>2021-07-05 13:02:45</sys_created_on>
+        <sys_id>1af8bf170709f810bc67ff808c1ed0ea</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17a76c38d1a0000001</sys_recorded_at>
+        <sys_updated_by>ashish</sys_updated_by>
+        <sys_updated_on>2021-07-05 13:02:45</sys_updated_on>
+        <type>Data Item</type>
+        <update_guid>52f8bf172709f810cf98142b263a99ea</update_guid>
+        <update_guid_history>52f8bf172709f810cf98142b263a99ea:-2102197450</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>ashish</sys_created_by>
+        <sys_created_on>2021-07-05 13:03:50</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_data_item">sys_sg_data_item</sys_db_object>
+        <sys_id>3890e0d7efb54f4096c153a629ff0a40</sys_id>
+        <sys_metadata>16f8bf170709f810bc67ff808c1ed0e7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create Delegate</sys_name>
+        <sys_package display_value="Shopping List" source="x_113026_shopping">9b43f79b07c5f810bc67ff808c1ed0f7</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">9b43f79b07c5f810bc67ff808c1ed0f7</sys_scope>
+        <sys_scope_delete display_value="">6d23308ca5d849d0afd358d79449e290</sys_scope_delete>
+        <sys_update_name>sys_sg_data_item_16f8bf170709f810bc67ff808c1ed0e7</sys_update_name>
+        <sys_update_version display_value="sys_sg_data_item_16f8bf170709f810bc67ff808c1ed0e7">1af8bf170709f810bc67ff808c1ed0ea</sys_update_version>
+        <sys_updated_by>ashish</sys_updated_by>
+        <sys_updated_on>2021-07-05 13:03:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
